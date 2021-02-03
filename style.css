@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  background: yellow;
+}
+body {
+  background: rgb(194, 194, 194);
+  text-align: center;
+  display: flex;
+  position: relative;
+  top: 20px;
+}
